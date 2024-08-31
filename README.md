@@ -1,8 +1,7 @@
-## Machine Learning for Cardiac Health: Predicting Coronary Artery Disease 
+I am a diligent scholar pursuing a Master of Arts in Economics at Ohio University, with a previous Master of Philosophy in Agricultural Economics from the University of Ghana. My diverse background spans research, teaching, and community development, showcasing my academic rigor and impactful leadership as a Graduate Research Assistant and Teaching Fellow.
 
-## My colleague (George Baffuor Awuah) and I collaborated to work on this project together for our STATISTICAL COMPUTING final project at Ohio University.
+I possess expertise in statistical analysis and a strong commitment to interdisciplinary collaboration. I am proficient in using R, Stata, SPSS, and Microsoft Excel to analyze data and provide insights for decision-making, and I am currently learning Python for further data analysis and insight provision.
 
+As I near the completion of my studies in August and anticipate graduating in December, I am actively seeking entry-level and associate-level positions in economics and related fields, such as Research Analyst/Associate and Data Analyst. 
 
-
-## Abstract
-This study evaluates the efficacy of multiple machine learning models in predicting coronary artery disease (CAD) using clinical data from the Sani dataset. We employed five different classification techniques: Logistic Regression, K-Nearest Neighbors (KNN), Naïve Bayes, Support Vector Machine (SVM), and Random Forest. Our analysis included a thorough assessment of each model based on accuracy, recall, F1 score, Area Under the Curve (AUC), and mean sensitivity. The results indicated that the Logistic Regression model outperformed others with an accuracy of 83.52%, an F1 score of 72.73%, and an AUC of 88.52%, demonstrating high effectiveness in distinguishing between patients with and without CAD. The Random Forest model also showed strong performance, especially in accuracy and AUC. Our findings highlight the potential of advanced machine learning techniques in enhancing diagnostic accuracy in medical settings, thereby supporting healthcare professionals in making more informed decisions regarding CAD management and guiding future research and clinical applications in cardiovascular disease diagnosis.Click  (xxxx)to see the codes and analysis we did in R Markdown.
+I am passionate about using my skills and knowledge to contribute to the field of economics and beyond, and I am eager to leverage my academic and professional experiences in a dynamic and impactful role.
